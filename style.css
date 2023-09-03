@@ -8,13 +8,11 @@ p{
     font-family: 'Libre Baskerville', serif;
     color: white;
 }
-div{
+#first{
     background-color: black;
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
-}
-#first{
     text-align: center;
 }
 body{
