@@ -3,10 +3,12 @@ h1{
     color: white;
     background-color: black;
     text-transform: capitalize;
+    font-size: 3rem;
 }
 p{
     font-family: 'Libre Baskerville', serif;
     color: white;
+    font-size: 2em;
 }
 #first{
     background-color: black;
